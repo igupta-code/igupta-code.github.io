@@ -44,7 +44,7 @@
         }
 
           body {
-           background-image: url("https://cdn.pixabay.com/photo/2016/04/12/22/35/watercolour-1325656_960_720.jpg"), url("paper.gif");
+           background-image: url("https://image.freepik.com/free-photo/blue-watercolor-texture-background_24972-148.jpg"), url("paper.gif");
            background-repeat: no-repeat, repeat;
            background-size: 100%, 100%;
            font-family: "palatino", sans-serif;
